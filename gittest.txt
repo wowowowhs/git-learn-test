@@ -2,3 +2,5 @@ gittest
 git-learn-test
 first txt
 add 4th line
+
+add 6th line test
