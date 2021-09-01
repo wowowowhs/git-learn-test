@@ -4,3 +4,5 @@ first txt
 add 4th line
 
 add 6th line test
+
+测试在有和没有.git文件夹情况下的提交
